@@ -1,4 +1,1 @@
 これはサンプルテキストです。
-aaaaa
-bbbbb
-ccccc
